@@ -67,7 +67,7 @@
         }
         static void Main(string[] args)
         {
-            const string Go = "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tGGGGG\t    OOOOO\n\t\t\t\t\t      GG     GG\t  OO     OO\n\t\t\t\t\t      GG     GG\t  OO     OO\n\t\t\t\t\t      GG\t  OO     OO\n\t\t\t\t\t      GG\t  OO     OO\n\t\t\t\t\t      GG   GGGG   OO     OO\n\t\t\t\t\t      GG     GG   OO     OO\n\t\t\t\t\t\tGGGGG\t    OOOOO";
+            const string Go = "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\tGGGGG\t    OOOOO\n\t\t\t\t\t\t      GG     GG\t  OO     OO\n\t\t\t\t\t\t      GG     GG\t  OO     OO\n\t\t\t\t\t\t      GG\t  OO     OO\n\t\t\t\t\t\t      GG\t  OO     OO\n\t\t\t\t\t\t      GG   GGGG   OO     OO\n\t\t\t\t\t\t      GG     GG   OO     OO\n\t\t\t\t\t\t\tGGGGG\t    OOOOO";
             const string One = "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t      1 1\n\t\t\t\t\t\t\t    1   1\n\t\t\t\t\t\t\t  1     1\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t1";
             const string Two = "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t22222\n\t\t\t\t\t\t       2     2\n\t\t\t\t\t\t\t     2\n\t\t\t\t\t\t\t    2\n\t\t\t\t\t\t\t   2\n\t\t\t\t\t\t\t  2\n\t\t\t\t\t\t\t 2\n\t\t\t\t\t\t\t2\n\t\t\t\t\t\t       222222222";
             const string Three = "\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t33333\n\t\t\t\t\t\t       3     3\n\t\t\t\t\t\t\t     3\n\t\t\t\t\t\t\t     3\n\t\t\t\t\t\t\t   3\n\t\t\t\t\t\t\t     3\n\t\t\t\t\t\t\t     3\n\t\t\t\t\t\t       3     3\n\t\t\t\t\t\t\t33333";
